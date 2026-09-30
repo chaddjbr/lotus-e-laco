@@ -1,0 +1,20 @@
+LÓTUS & LAÇO — LANDING PAGE / PRÉVIA PARA REVISÃO
+
+Abra index.html em um servidor HTTP para revisar localmente, ou use o link privado informado na entrega. O site é estático: index.html e a pasta assets são suficientes.
+
+CONFIRMADO PELO MANUAL
+- Nome da marca e atuação em Goiânia.
+- Decoração de casamentos e festas; cerimonial/assessoria.
+- Ewaine Fernandes como cerimonialista e decoradora.
+- Instagram: https://www.instagram.com/lotuselaco/
+- Perfil público da Ewaine: https://www.instagram.com/ewainefernandes/
+
+ITENS A SUBSTITUIR ANTES DA PUBLICAÇÃO COMERCIAL
+1. Fotos: ewaine-fernandes.webp é a foto enviada para a seção "Quem está por trás". As demais imagens da pasta assets foram geradas por IA como direção visual. Nenhuma foto do PDF foi usada. Substitua as imagens conceituais por fotografias reais dos trabalhos com autorização de uso.
+2. Depoimentos: inserir apenas relatos verdadeiros e autorizados.
+3. WhatsApp: número configurado como (62) 99315-5689. Ao finalizar o formulário, o botão abre o WhatsApp com a mensagem pré-preenchida a partir das respostas do cliente.
+4. Confirmar escopo de cerimonial/assessoria, cidades atendidas e texto comercial com Ewaine.
+5. O formulário desta prévia prepara uma mensagem para cópia; não envia dados nem armazena respostas.
+
+TIPOGRAFIA E CORES
+Cormorant Garamond e DM Sans via Google Fonts, com fontes alternativas do sistema. Paleta inspirada no manual: carvão #1C1A18, areia #EEE8DD, linho #D9CCBA, dourado fosco #B69A6A e rosa queimado #C9AFA9.
